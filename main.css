@@ -1,0 +1,15 @@
+#loading{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 15%;
+}
+
+.images{
+	column-count: 3;
+}
+
+img{
+	width: 100%;
+}
